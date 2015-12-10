@@ -1,0 +1,11 @@
+INDEX VERSION 1.127+C:\Workspaces\AlgorithmsLabs\.metadata\.plugins\org.eclipse.jdt.core
+2606080199.index
+3155274417.index
+1109898.index
+1929277391.index
+204033445.index
+2666450434.index
+2093693112.index
+758185094.index
+1310469496.index
+2219594636.index
